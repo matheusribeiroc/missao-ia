@@ -4,4 +4,8 @@
 :root{
     --fonte-titulo:'Fjalla+One&display';
     --fonte-texto:'Playwrite+DE+SAS';
+    --cor-principal:#28836f;
+    --cor-secundaria:#10a7cd;
+    --cor-destaque:#11c5f6;
+    --cor-texto:#f1fefe;
 }
