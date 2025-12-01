@@ -1,97 +1,97 @@
 export const perguntas = [
     {
-    enunciado:"A inserção de dispositivos digitais e telas (como smartphones, tablets e televisões) na rotina de crianças em idade pré-escolar e escolar é um fenômeno global que suscita preocupações e oportunidades. Considerando o desenvolvimento infantil integral, qual dos dilemas a seguir melhor representa os impactos divergentes do uso de telas?",
-    alternativas:[
-        {
-            texto: "O uso moderado e supervisionado de telas serve como um poderoso instrumento de enriquecimento pedagógico.",
-            afirmacao:[
-                "Telas, quando usadas de forma moderada e mediada, são catalisadores educacionais. Elas oferecem ferramentas interativas que promovem o raciocínio lógico, estimulam a criatividade e desenvolvem a fluência tecnológica, preparando a criança ativamente para o futuro."
-            ],
-            proxima: 1,
-        },
-        {
-            texto:"A exposição excessiva e passiva a telas, especialmente sem conteúdo educativo, está associada à redução drástica do tempo dedicado a brincadeiras não estruturadas e atividades físicas.",
-            afirmacao:[
-                "A exposição excessiva e passiva está associada à perda de tempo de atividades cruciais (brincadeiras e exercícios). Isso pode levar ao sedentarismo, atraso na linguagem e dificuldades na regulação emocional, comprometendo o desenvolvimento físico e mental."
-            ],
-            proxima: 2,
-        }
-    ]
-},
-{
-    enunciado:"A mediação parental no uso de telas é amplamente considerada um fator crucial para maximizar os benefícios e minimizar os riscos. Essa mediação pode se manifestar de diversas formas: desde a Mediação Restritiva até a Mediação Ativa/Co-uso. Qual das seguintes afirmações melhor descreve o dilema central entre a eficácia e o impacto psicológico dos diferentes tipos de mediação parental?",
-    alternativas:[
-        {
-            texto:"A Mediação Ativa (Co-uso) é superior à Restritiva, pois transforma o tempo de tela em uma oportunidade de vínculo e aprendizado mútuo.",
-            afirmacao:[
-                  "O Co-uso transforma o tempo de tela em uma oportunidade de vínculo, diálogo e aprendizado mútuo. Ao interagir com o conteúdo junto, os pais ensinam a criança a ser um consumidor digital crítico e discernente, promovendo a competência digital e a autorregulação de forma saudável."
-            ],
-            proxima:3,
-        },
-        {
-            texto:"A Mediação Estritamente Restritiva, embora eficaz para limitar o tempo de tela, pode ser contraproducente a longo prazo.",
-            afirmacao: [
-                  "O controle excessivo baseado apenas na proibição mina a autonomia e impede o desenvolvimento da autorregulação digital interna. Isso pode levar a um aumento da curiosidade pelo conteúdo proibido, podendo resultar em uso escondido ou problemático na adolescência, em vez de preparar o jovem para escolhas responsáveis."
-            ],
-            proxima: 4,
-        }
-    ]
-},
-{
-    enunciado:"A rápida sucessão de estímulos visuais e auditivos provenientes das telas impacta diretamente o desenvolvimento neural e a arquitetura cognitiva da criança. Embora a tecnologia ofereça ambientes de aprendizado dinâmicos, o cérebro em formação pode reagir de maneiras contrastantes à intensidade e à velocidade dessa estimulação. Qual é o principal trade-off (conflito) entre o potencial de estímulo cognitivo e o risco de alteração do padrão de atenção e processamento mental?",
-    alternativas:[
-        {
-            texto:"A exposição a softwares e jogos que exigem raciocínio rápido, resolução de problemas e multitarefa (sob limites de tempo) pode aprimorar a velocidade de processamento cognitivo e a flexibilidade mental da criança.",
-            afirmacao:[
-                "O uso intencional de jogos e softwares complexos treina o cérebro para a agilidade. A exigência de raciocínio rápido e multitarefa aprimora a velocidade de processamento cognitivo e a flexibilidade mental, preparando a criança para a dinâmica de ambientes modernos e complexos."
-            ],
-            proxima:5,
-        },
-        {
-            texto:"O consumo passivo e o alto nível de recompensa imediata das telas podem reduzir a tolerância da criança ao tédio e à capacidade de manter o foco em tarefas que exigem esforço sustentado.",
-            afirmacao: [
-                "O consumo passivo e a alta recompensa das telas viciam o cérebro na gratificação instantânea. Isso resulta em baixa tolerância ao tédio e prejuízo na atenção sustentada, dificultando o foco em tarefas que exigem esforço longo e profundo (como leitura ou estudo), essenciais para o aprendizado acadêmico."
-            ],
-            proxima: 6,
-        }
-    ]
-},
-{
-    enunciado: "O desenvolvimento socioemocional da criança depende crucialmente da interação face a face, da brincadeira não estruturada e da leitura de pistas não verbais. Contudo, o ambiente digital oferece novas formas de conexão e expressão. Qual é o dilema central entre o potencial das telas para a conexão social e a inclusão e o risco de prejuízo das habilidades de interação interpessoal no mundo físico?",
-    alternativas:[
-        {
-            texto:"Para muitas crianças (especialmente aquelas com dificuldades de mobilidade, neurodiversas ou que vivem em locais isolados), as telas representam uma ferramenta vital de inclusão e acesso a redes de apoio social e emocional.",
-            afirmacao:[
-               "Telas são uma ferramenta vital de inclusão para crianças com dificuldades sociais ou mobilidade limitada, oferecendo um espaço seguro para construir amizades e expressar a identidade social."
-            ],
-            proxima:7,
-        },
-        {
-            texto:"O uso excessivo de telas como substituto da interação real limita drasticamente a prática da leitura de sinais sociais não verbais essenciais (como tom de voz, expressão facial e linguagem corporal).",
-            afirmacao: [
-               "O uso excessivo limita a leitura de sinais sociais não verbais do contato real, prejudicando o desenvolvimento da empatia e das habilidades complexas de gestão de conflitos interpessoais."
-            ],
-            proxima: 8,
-        }
-    ]
-},
-{
-    enunciado:"O impacto do uso de telas na saúde física da criança transcende o sedentarismo e está diretamente ligado à fisiologia, como o ciclo circadiano, a saúde ocular e a ergonomia. A conveniência do acesso digital deve ser pesada contra os riscos biológicos associados. Qual dos dilemas a seguir melhor resume o conflito entre o potencial das telas para promover a saúde e os riscos fisiológicos diretos do uso desregulado?",
-    alternativas:[
-        {
-            texto:"Aplicativos e dispositivos digitais podem ser utilizados ativamente para promover a consciência de saúde e bem-estar, como guias de exercícios de alongamento (yoga infantil), aplicativos de mindfulness e jogos educativos sobre nutrição.",
-            afirmacao:[
-                "Telas podem ser usadas como ferramentas ativas para a consciência de saúde, oferecendo aplicativos de mindfulness, guias de exercícios e educação sobre nutrição de forma envolvente, capacitando a criança a tomar decisões informadas sobre seu bem-estar."
-            ],
-            proxima:9,
-        },
-        {
-            texto:"A exposição contínua à luz azul emitida pelas telas, especialmente no período noturno, inibe a produção de melatonina, prejudicando a qualidade e a duração do sono essencial para o crescimento e a recuperação cognitiva.",
-            afirmacao: [
-                  "A luz azul das telas, especialmente à noite, inibe a produção de melatonina, prejudicando o sono essencial para o crescimento e cognição. Este risco é agravado pela tensão ocular e pela má postura ergonômica."
-            ],
-            proxima: 10,
-        },
-    ]
-},
+        enunciado: "A ascensão de tecnologias como inteligência artificial, automação e big data está moldando os empregos do futuro. Considerando o impacto desses avanços no mercado de trabalho, qual dos dilemas a seguir melhor representa os desafios e oportunidades dos empregos do futuro?",
+        alternativas: [
+            {
+                texto: "A automação de tarefas repetitivas pode liberar os trabalhadores para se dedicarem a funções mais criativas e de maior valor agregado.",
+                afirmacao: [
+                    "Com a automação de funções repetitivas e simples, os trabalhadores poderão focar em tarefas mais criativas, que exigem pensamento crítico e habilidades interativas, promovendo o desenvolvimento de novas competências e oportunidades de inovação."
+                ],
+                proxima: 1,
+            },
+            {
+                texto: "A automação e a inteligência artificial podem levar à extinção de empregos tradicionais, resultando em um aumento do desemprego em setores específicos.",
+                afirmacao: [
+                    "Embora a tecnologia ofereça inovações, a automação pode substituir funções em setores como manufatura e serviços, gerando desafios para a requalificação da força de trabalho e o aumento do desemprego em algumas áreas."
+                ],
+                proxima: 2,
+            }
+        ]
+    },
+    {
+        enunciado: "A adaptação às mudanças tecnológicas no ambiente de trabalho é um fator chave para o sucesso profissional no futuro. Como as competências digitais influenciam o desenvolvimento de novas oportunidades de emprego?",
+        alternativas: [
+            {
+                texto: "Desenvolver competências digitais, como programação, análise de dados e inteligência artificial, é fundamental para se manter competitivo no mercado de trabalho do futuro.",
+                afirmacao: [
+                    "A constante evolução tecnológica exige que os profissionais possuam habilidades digitais, desde a programação até o uso de inteligência artificial, para poderem competir por empregos de alta demanda e se destacarem no mercado de trabalho."
+                ],
+                proxima: 3,
+            },
+            {
+                texto: "A falta de habilidades digitais não comprometerá o sucesso profissional, uma vez que muitas funções tradicionais não exigem competências tecnológicas avançadas.",
+                afirmacao: [
+                    "Apesar da crescente digitalização, existem setores e funções que continuam a valorizar habilidades humanas, como empatia, comunicação e trabalho em equipe, que podem continuar a ser a base para o sucesso profissional, sem a necessidade de conhecimento tecnológico profundo."
+                ],
+                proxima: 4,
+            }
+        ]
+    },
+    {
+        enunciado: "A evolução das tecnologias de comunicação e colaboração remota está transformando a dinâmica do trabalho. Qual é o dilema entre as vantagens da flexibilidade no trabalho remoto e os desafios de manter uma cultura organizacional coesa?",
+        alternativas: [
+            {
+                texto: "O trabalho remoto oferece flexibilidade e qualidade de vida, permitindo que os funcionários equilibrem vida pessoal e profissional, o que pode resultar em maior produtividade e satisfação.",
+                afirmacao: [
+                    "O trabalho remoto tem a vantagem de proporcionar maior flexibilidade para os trabalhadores, o que pode melhorar a satisfação, aumentar a produtividade e reduzir o estresse. Ele permite que os profissionais adaptem seus horários e ambientes de trabalho de forma mais eficiente."
+                ],
+                proxima: 5,
+            },
+            {
+                texto: "O trabalho remoto pode dificultar a construção de uma cultura organizacional forte e a interação social entre colegas, o que pode impactar negativamente na colaboração e na criatividade.",
+                afirmacao: [
+                    "A falta de interação física pode prejudicar a criação de laços sociais e a comunicação espontânea, afetando a colaboração criativa e a construção de uma cultura organizacional sólida. Além disso, a falta de um ambiente comum pode diminuir a sensação de pertencimento e identidade no trabalho."
+                ],
+                proxima: 6,
+            }
+        ]
+    },
+    {
+        enunciado: "Com o avanço da inteligência artificial e a crescente automação, muitos novos empregos estão sendo criados, especialmente nas áreas de tecnologia e dados. Qual é o principal dilema entre os benefícios das novas oportunidades de emprego e o risco da exclusão de trabalhadores menos qualificados?",
+        alternativas: [
+            {
+                texto: "A IA e a automação estão criando empregos inovadores em setores de alta tecnologia e análise de dados, exigindo novas habilidades e formando um mercado de trabalho mais especializado.",
+                afirmacao: [
+                    "O avanço da IA e da automação tem gerado novas oportunidades de emprego, particularmente nas áreas de análise de dados, cibersegurança, e desenvolvimento de IA. Esses setores exigem habilidades especializadas, mas abrem portas para profissionais capacitados em áreas de alta demanda."
+                ],
+                proxima: 7,
+            },
+            {
+                texto: "A automação pode excluir uma parte significativa da força de trabalho que não possui as habilidades técnicas necessárias, exacerbando as desigualdades sociais e o desemprego.",
+                afirmacao: [
+                    "Embora novas oportunidades surjam, muitos trabalhadores que não possuem qualificação em áreas de tecnologia podem ser deixados para trás, agravando a desigualdade e criando um fosso entre os trabalhadores qualificados e não qualificados, o que exige políticas públicas de requalificação."
+                ],
+                proxima: 8,
+            }
+        ]
+    },
+    {
+        enunciado: "A tendência de especialização em áreas de alta tecnologia está remodelando a natureza dos empregos, criando novos desafios em termos de treinamento e educação. Qual é o dilema central entre a rápida adaptação das competências profissionais e os custos e prazos da educação formal?",
+        alternativas: [
+            {
+                texto: "A educação focada em competências específicas de alta tecnologia, como codificação e análise de dados, prepara melhor os trabalhadores para os empregos do futuro, embora exija atualizações contínuas.",
+                afirmacao: [
+                    "A educação que foca em habilidades específicas de alta tecnologia oferece vantagens claras, preparando os trabalhadores para a crescente demanda por competências técnicas. No entanto, esses conhecimentos precisam ser atualizados constantemente, o que pode ser um desafio para a educação tradicional."
+                ],
+                proxima: 9,
+            },
+            {
+                texto: "A educação tradicional, mais generalista, ainda é relevante, pois proporciona uma base sólida para adaptação às mudanças do mercado de trabalho, embora leve mais tempo para se atualizar com as novas demandas tecnológicas.",
+                afirmacao: [
+                    "A educação mais tradicional e generalista oferece uma base sólida para a adaptação às novas demandas do mercado. Contudo, ela pode ser mais lenta para incorporar as mudanças tecnológicas emergentes, o que pode representar uma desvantagem em um mundo de rápidas transformações."
+                ],
+                proxima: 10,
+            }
+        ]
+    }
 ];
