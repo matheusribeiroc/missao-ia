@@ -1,3 +1,4 @@
+@@ -1,11 +1,11 @@
 import {aleatorio, nome} from './aleatorio.js';
 import {perguntas} from './perguntas.js';
 import { aleatorio, nome } from './aleatorio.js';
@@ -12,13 +13,12 @@ const textoResultado = document.querySelector(".texto-resultado");
 const botaoJogarNovamente = document.querySelector(".novamente-botao");
 const telaInicial = document.querySelector(".tela-inicial");
 const botaoIniciar = document.querySelector(".iniciar-botao");
-
-
+@@ -14,67 +14,67 @@
 let perguntaAtual;
 let historiaFinal = "";
 
 botaoIniciar.addEventListener('click,iniciaJogo');
-function iniciaJogo()
+function iniciaJogo(){
 botaoIniciar.addEventListener('click',iniciaJogo);
 function iniciaJogo() {
     atual = 0;
